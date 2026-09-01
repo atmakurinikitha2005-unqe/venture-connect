@@ -1,0 +1,17 @@
+{
+  "upd_1": {
+    "id": "upd_1",
+    "startup_id": "stp_2",
+    "startup_name": "HealthPulse AI",
+    "title": "Q2 2026 Progress Update - Hospital Deployments & Revenue Milestone",
+    "period": "Q2 2026",
+    "revenue": 115000,
+    "customers_count": 14,
+    "employees_count": 8,
+    "milestones_achieved": "Secured 4 new hospital deployment contracts; achieved $115k MRR.",
+    "product_progress": "Released v2.4 diagnostic heatmap pipeline.",
+    "new_funding": 0,
+    "business_notes": "On track to hit $1.5M ARR ahead of schedule.",
+    "created_at": "2026-07-15T10:00:00Z"
+  }
+}

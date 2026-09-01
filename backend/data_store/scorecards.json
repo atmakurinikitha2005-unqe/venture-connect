@@ -1,0 +1,81 @@
+{
+  "sc_1": {
+    "id": "sc_1",
+    "vc_id": "usr_vc1",
+    "startup_id": "stp_1",
+    "market_potential": {
+      "rating": 9,
+      "notes": "Huge addressable market in LatAm & SE Asia."
+    },
+    "business_model": {
+      "rating": 8,
+      "notes": "Strong take-rate economics with API subscriptions."
+    },
+    "product": {
+      "rating": 9,
+      "notes": "Sub-second latency benchmark."
+    },
+    "team": {
+      "rating": 9,
+      "notes": "Experienced founder with Stripe payments background."
+    },
+    "financials": {
+      "rating": 7,
+      "notes": "$42k MRR growing 20% MoM."
+    },
+    "competition": {
+      "rating": 8,
+      "notes": "Well differentiated against dLocal and Wise."
+    },
+    "scalability": {
+      "rating": 9,
+      "notes": "High gross margin software platform."
+    },
+    "overall_score": 8.43,
+    "created_at": "2026-08-16T15:30:00Z"
+  },
+  "sc_ca3cecde": {
+    "vc_id": "usr_vc1",
+    "startup_id": "stp_2",
+    "market_potential": {
+      "rating": 7
+    },
+    "business_model": {
+      "rating": 8
+    },
+    "product": {
+      "rating": 8
+    },
+    "team": {
+      "rating": 9
+    },
+    "financials": {
+      "rating": 8
+    },
+    "overall_score": 8,
+    "created_at": "2026-09-01T07:54:26.278Z",
+    "id": "sc_ca3cecde"
+  },
+  "sc_58ff09b8": {
+    "vc_id": "usr_vc1",
+    "startup_id": "stp_3",
+    "market_potential": {
+      "rating": 9
+    },
+    "business_model": {
+      "rating": 9
+    },
+    "product": {
+      "rating": 9
+    },
+    "team": {
+      "rating": 9
+    },
+    "financials": {
+      "rating": 9
+    },
+    "overall_score": 9,
+    "created_at": "2026-09-01T07:54:43.562Z",
+    "id": "sc_58ff09b8"
+  }
+}

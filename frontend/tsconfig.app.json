@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "allowJs": true
+  },
+  "files": [
+    "src/main.js"
+  ],
+  "include": [
+    "src/**/*.js"
+  ]
+}

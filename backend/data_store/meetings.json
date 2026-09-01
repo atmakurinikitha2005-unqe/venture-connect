@@ -1,0 +1,16 @@
+{
+  "mtg_1": {
+    "id": "mtg_1",
+    "startup_id": "stp_1",
+    "startup_name": "NovaPay",
+    "vc_id": "usr_vc1",
+    "vc_name": "David Miller (Horizon Capital)",
+    "entrepreneur_id": "usr_ent1",
+    "date": "2026-08-28",
+    "time": "14:00",
+    "purpose": "Term Sheet & Partner IC Presentation",
+    "message": "Invite Sarah to present NovaPay to our full investment committee.",
+    "status": "Accepted",
+    "created_at": "2026-08-20T10:00:00Z"
+  }
+}

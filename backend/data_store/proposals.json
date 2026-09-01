@@ -1,0 +1,54 @@
+{
+  "prop_1": {
+    "id": "prop_1",
+    "startup_id": "stp_1",
+    "startup_name": "NovaPay",
+    "vc_id": "usr_vc1",
+    "vc_name": "David Miller (Horizon Capital)",
+    "entrepreneur_id": "usr_ent1",
+    "investment_amount": 1500000,
+    "equity_percent": 15,
+    "conditions": "1 Board seat, pro-rata rights, 1-year cliff vesting.",
+    "notes": "Excited to lead your Seed round!",
+    "status": "Counter Offer",
+    "counter_offers": [
+      {
+        "sender_role": "vc",
+        "sender_id": "usr_vc1",
+        "sender_name": "David Miller",
+        "investment_amount": 1500000,
+        "equity_percent": 15,
+        "conditions": "1 Board seat, pro-rata rights.",
+        "notes": "Initial term sheet proposal.",
+        "timestamp": "2026-08-22T09:30:00Z"
+      },
+      {
+        "sender_role": "entrepreneur",
+        "sender_id": "usr_ent1",
+        "sender_name": "Sarah Chen",
+        "investment_amount": 1500000,
+        "equity_percent": 12.5,
+        "conditions": "1 Board observer seat, pro-rata rights retained.",
+        "notes": "Given our MRR growth, we propose 12.5% equity.",
+        "timestamp": "2026-08-23T14:15:00Z"
+      }
+    ],
+    "created_at": "2026-08-22T09:30:00Z",
+    "updated_at": "2026-08-23T14:15:00Z"
+  },
+  "prop_adec8470": {
+    "id": "prop_adec8470",
+    "startup_id": "stp_35adf8ba",
+    "startup_name": "Apex AI Labs",
+    "vc_id": "usr_vc1",
+    "vc_name": "David Miller",
+    "entrepreneur_id": "usr_admin",
+    "investment_amount": 1500000,
+    "equity_percent": 15,
+    "conditions": "1 Board Seat, Delaware C-Corp reincorporation",
+    "notes": "Official Term Sheet Proposal",
+    "status": "Proposal Sent",
+    "created_at": "2026-09-01T06:19:01.150Z",
+    "updated_at": "2026-09-01T06:19:01.150Z"
+  }
+}

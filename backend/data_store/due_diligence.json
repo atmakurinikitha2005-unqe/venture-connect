@@ -1,0 +1,102 @@
+{
+  "dd_ws_novapay": {
+    "id": "dd_ws_novapay",
+    "startup_id": "stp_1",
+    "vc_id": "usr_vc1",
+    "items": [
+      {
+        "id": "dd_1",
+        "category": "Business",
+        "title": "Market Size & SAM Validation",
+        "description": "Verify TAM/SAM calculations.",
+        "is_completed": true,
+        "notes": "Validated via Gartner Report.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_2",
+        "category": "Business",
+        "title": "Customer Pipeline & Cohorts",
+        "description": "Review top 10 customer contracts.",
+        "is_completed": true,
+        "notes": "Zero churn in last 6 months.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_3",
+        "category": "Financial",
+        "title": "Bank Statements & MRR Audit",
+        "description": "Reconcile Stripe statements with $42k MRR.",
+        "is_completed": true,
+        "notes": "MRR verified by audit team.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_4",
+        "category": "Financial",
+        "title": "Cap Table & Option Pool Verification",
+        "description": "Verify share distribution.",
+        "is_completed": true,
+        "notes": "Cap table clean, 10% ESOP reserved.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_5",
+        "category": "Legal",
+        "title": "Incorporation & Good Standing",
+        "description": "Check Delaware filing.",
+        "is_completed": true,
+        "notes": "Delaware Certificate received.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_6",
+        "category": "Legal",
+        "title": "IP Assignment Agreements",
+        "description": "Confirm IP assignment docs.",
+        "is_completed": true,
+        "notes": "IP assigned to NovaPay Inc.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_7",
+        "category": "Legal",
+        "title": "Regulatory Compliance",
+        "description": "Review FinCEN MSB registration.",
+        "is_completed": true,
+        "notes": "MSB registration verified.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_8",
+        "category": "Team",
+        "title": "Founder Reference Checks",
+        "description": "Conduct 3 backchannel calls.",
+        "is_completed": true,
+        "notes": "Glowing references from former Stripe VP.",
+        "verified_by_vc_id": "usr_vc1"
+      },
+      {
+        "id": "dd_9",
+        "category": "Team",
+        "title": "Background Checks",
+        "description": "Run criminal background checks.",
+        "is_completed": false,
+        "notes": "Pending report.",
+        "verified_by_vc_id": ""
+      },
+      {
+        "id": "dd_10",
+        "category": "Financial",
+        "title": "Audited Financial Statements",
+        "description": "Review 2025 CPA financial statements.",
+        "is_completed": false,
+        "notes": "Scheduled for Friday.",
+        "verified_by_vc_id": ""
+      }
+    ],
+    "total_checks": 10,
+    "completed_checks": 8,
+    "completion_percentage": 80
+  }
+}

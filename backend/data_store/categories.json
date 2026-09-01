@@ -1,0 +1,27 @@
+{
+  "cat_1": {
+    "id": "cat_1",
+    "name": "FinTech",
+    "description": "Financial Technology & Payment Solutions"
+  },
+  "cat_2": {
+    "id": "cat_2",
+    "name": "HealthTech",
+    "description": "Healthcare, Medical AI & Digital Health"
+  },
+  "cat_3": {
+    "id": "cat_3",
+    "name": "CleanTech",
+    "description": "Renewable Energy & Climate Solutions"
+  },
+  "cat_4": {
+    "id": "cat_4",
+    "name": "SaaS / B2B",
+    "description": "Enterprise Software & Cloud Infra"
+  },
+  "cat_5": {
+    "id": "cat_5",
+    "name": "DeepTech / AI",
+    "description": "Artificial Intelligence & Robotics"
+  }
+}

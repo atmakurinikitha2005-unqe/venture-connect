@@ -1,0 +1,92 @@
+{
+  "usr_admin": {
+    "id": "usr_admin",
+    "email": "admin@ventureconnect.com",
+    "password": "$2a$08$R49cps7F7Iw2ufdvaoYPKe5xFIyU8wGT/Euuf5o2xX2ID/29W85HG",
+    "name": "System Administrator",
+    "role": "admin",
+    "firm_or_company": "VentureConnect HQ",
+    "bio": "Managing platform integrity, startup verification, and user authentication.",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_ent1": {
+    "id": "usr_ent1",
+    "email": "sarah@novapay.io",
+    "password": "$2a$08$Ylixz2WWajB/PjYPVf6mBuDVzxEvmJXx6cqJjdhn2GUFUCDimrzCG",
+    "name": "Sarah Chen",
+    "role": "entrepreneur",
+    "firm_or_company": "NovaPay Inc.",
+    "bio": "Ex-Stripe engineer building next-gen cross-border payments infrastructure.",
+    "is_verified": true,
+    "is_active": false
+  },
+  "usr_ent2": {
+    "id": "usr_ent2",
+    "email": "alex@healthpulse.ai",
+    "password": "$2a$08$KtFRYVhek4Cttn3.dE.JSOEB99ZVF/cCkuKvnLgFByV5n.7YeWQQ2",
+    "name": "Dr. Alex Rivera",
+    "role": "entrepreneur",
+    "firm_or_company": "HealthPulse AI",
+    "bio": "Stanford MD/PhD specializing in automated medical diagnostics.",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_ent3": {
+    "id": "usr_ent3",
+    "email": "marcus@cleangrid.tech",
+    "password": "$2a$08$W0BIDp367egsM945C2cBI.KFPjKseuv0nmiWiKznDEx8rUStOrk9y",
+    "name": "Marcus Vance",
+    "role": "entrepreneur",
+    "firm_or_company": "CleanGrid Tech",
+    "bio": "Clean energy pioneer scaling AI-driven smart grid storage.",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_vc1": {
+    "id": "usr_vc1",
+    "email": "david@horizoncap.com",
+    "password": "$2a$08$ALVqm/sHwMwzpcOp.6O6f.OdqWRax3/zRlc.dgcF5Gc5I3LdgWG6.",
+    "name": "David Miller",
+    "role": "vc",
+    "firm_or_company": "Horizon Capital ($250M AUM)",
+    "bio": "Managing Partner focused on FinTech and Enterprise SaaS investments.",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_vc2": {
+    "id": "usr_vc2",
+    "email": "elena@apexvc.com",
+    "password": "$2a$08$r3Ec.ebJDBP5Y2QUH0EQ2uPfOLR3QeGi5bUmEHSSPWrCWtXm/n1lW",
+    "name": "Elena Rostova",
+    "role": "vc",
+    "firm_or_company": "Apex Ventures ($180M AUM)",
+    "bio": "Partner investing in HealthTech, DeepTech, and AI infrastructure.",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_d5aa3011": {
+    "id": "usr_d5aa3011",
+    "email": "alex.rivera@startup.com",
+    "username": "alexrivera",
+    "name": "alexrivera",
+    "password": "$2a$08$LJbuoGe2FhgLlEbUIGLfLeTwzbytjxTlyY8YlJFeP2UAFW7OQJQBC",
+    "role": "entrepreneur",
+    "firm_or_company": "",
+    "bio": "",
+    "is_verified": true,
+    "is_active": true
+  },
+  "usr_cc8acaaf": {
+    "id": "usr_cc8acaaf",
+    "email": "niki25@gmail.com",
+    "username": "nikitha",
+    "name": "nikitha",
+    "password": "$2a$08$1byrtMbDohgcakkQr/CS5O9Uwch/dI0uBOIuWGtuD7d0sQxR6g3eW",
+    "role": "entrepreneur",
+    "firm_or_company": "",
+    "bio": "",
+    "is_verified": true,
+    "is_active": false
+  }
+}
